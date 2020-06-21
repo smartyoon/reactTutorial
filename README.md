@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+본 내용은 리액트 공부 내용이므로 유익한 자료가 없으므로 그냥 넘겨주시면 됩니다.
 
 ## Available Scripts
 
